@@ -12,8 +12,8 @@
 
 - 📍 **Location:** Based in osnabruck Germany (Open to on-site, hybrid, or remote roles)
 - 🛠️ **What I do:** [e.g., I specialize in building responsive web apps / frontend systems / data pipelines]
-- 🎓 **Current Focus:** Deepening my knowledge in [Insert 1-2 main languages from your repos, e.g., html, css,Javascript,react,node.js]
-- 🌱 **Continuous Learning:** Currently advancing my German language skills, Completed my Integration course from Volkhochschule VHS.(B1 certified)
+- 🎓 **Current Focus:** Deepening my knowledge in html, css,Javascript,react,node.js]
+- 🌱 **Continuous Learning:**Completed my Integration course from Volkhochschule VHS.(B1 certified)
 - 📫 **How to reach me:** swathippatil1997@gmail.com
 
 ---
