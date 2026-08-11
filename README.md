@@ -38,5 +38,5 @@
 
 <p align="center">
   <!-- This automatically generates your GitHub stats based on your username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrabhugowdaPatil&show_icons=true&theme=radical" alt="Swathi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrabhugowdaPatil&show_icons=true&theme=radical" alt="Swathi Prabhugowda Patil"/>
 </p>
