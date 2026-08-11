@@ -10,27 +10,30 @@
 
 ### 🚀 About Me
 
-- 📍 **Location:** Based in Germany (Open to on-site, hybrid, or remote roles)
-- 🛠️ **What I do:** [e.g., I specialize in building responsive web apps / backend systems / data pipelines]
-- 🎓 **Current Focus:** Deepening my knowledge in [Insert 1-2 main languages from your repos, e.g., Python, React, Java]
-- 🌱 **Continuous Learning:** Currently advancing my German language skills (A2 certified, studying for B1)
-- 📫 **How to reach me:** [Insert your LinkedIn URL] or [Insert your Email]
+- 📍 **Location:** Based in osnabruck Germany (Open to on-site, hybrid, or remote roles)
+- 🛠️ **What I do:** [e.g., I specialize in building responsive web apps / frontend systems / data pipelines]
+- 🎓 **Current Focus:** Deepening my knowledge in [Insert 1-2 main languages from your repos, e.g., html, css,Javascript,react,node.js]
+- 🌱 **Continuous Learning:** Currently advancing my German language skills, Completed my Integration course from Volkhochschule VHS.(B1 certified)
+- 📫 **How to reach me:** swathippatil1997@gmail.com
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <!-- You can swap these out for the actual tools in your repositories -->
-* **Languages:** [e.g., Python, JavaScript, Java, C++]
-* **Frameworks/Libraries:** [e.g., React, Node.js, Spring Boot]
-* **Tools & Databases:** [e.g., Git, Docker, PostgreSQL, MySQL]
+* **Languages:** [e.g.,html,css,JavaScript,react,node.js]
+* **Frameworks/Libraries:** [e.g., React, Node.js]
+* **Tools & Databases:** [e.g., Git]
 
 ---
 
 ### 🏆 Featured Projects
 
-* **[Your Best Project Name](Link to your repo):** A brief 1-2 sentence description of what this project does, the problem it solves, and the main technology stack used.
-* **[Your Second Best Project Name](Link to your repo):** A brief 1-2 sentence description of what this project does, the problem it solves, and the main technology stack used.
+* **[A Weather App](https://weather-app-one-alpha-22.vercel.app/):**Weather App: A responsive web application that allows users to search for any city to view current weather conditions—including temperature, humidity, and wind speed—alongside a multi-day forecast. Built with HTML5, CSS3, and JavaScript, utilizing Google Material Symbols for a clean UI.
+
+* 
+* **[A Personal Blog](https://personal-blog-project-green.vercel.app/):** Trend Blogger: A modern personal blog and content platform that lets readers explore trending topics across categories like Tech, Food, and News using interactive category filters. Built with HTML5, CSS3, JavaScript, jQuery,and Boxicons for clean UI icons.
+* 
 * **[Your Third Best Project](Link to your repo):** A brief 1-2 sentence description of what this project does, the problem it solves, and the main technology stack used.
 
 ---
