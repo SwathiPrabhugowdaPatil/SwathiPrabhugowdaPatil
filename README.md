@@ -34,9 +34,7 @@
 * 
 * **[A Personal Blog](https://personal-blog-project-green.vercel.app/):** Trend Blogger: A modern personal blog and content platform that lets readers explore trending topics across categories like Tech, Food, and News using interactive category filters. Built with HTML5, CSS3, JavaScript, jQuery and Boxicons for clean UI icons.
 * 
-* **[Your Third Best Project](Link to your repo):** A brief 1-2 sentence description of what this project does, the problem it solves, and the main technology stack used.
-
----
+* **[A Netflix Clone](https://netflix-clone-project-tan.vercel.app/):** A Netflix Clone: A responsive front-end replica of the Netflix homepage built with clean HTML5 and CSS3, featuring a pixel-perfect design, interactive FAQ accordion, and modern multi-column layout without external frameworks.
 
 <p align="center">
   <!-- This automatically generates your GitHub stats based on your username -->
