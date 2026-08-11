@@ -10,20 +10,20 @@
 
 ### 🚀 About Me
 
-- 📍 **Location:** Based in osnabruck Germany (Open to on-site, hybrid, or remote roles)
-- 🛠️ **What I do:** [e.g., I specialize in building responsive web apps / frontend systems / data pipelines]
-- 🎓 **Current Focus:** Deepening my knowledge in html, css,Javascript,react,node.js]
-- 🌱 **Continuous Learning:**Completed my Integration course from Volkhochschule VHS.(B1 certified)
-- 📫 **How to reach me:** swathippatil1997@gmail.com
-
+- 📍 **Location:** Based in osnabrueck Germany (Open to on-site, hybrid, or remote roles)
+- 🛠️ **What I do:** I specialize in building responsive web apps / frontend systems / data pipelines.
+- 🎓 **Current Focus:** Deepening my knowledge in html,css,Javascript,react,node.js,Building modern single-page applications (SPAs) with React & RESTful APIs
+- 🌱 **Continuous Learning:** Completed my Integration course from Volkhochschule VHS (B1 certified)
+- 📫 **How to reach me:** swathippatil1997@gmail.com 
+- 🗣️ **Languages:** English (Fluent), German (B1 Certified - VHS Integration Course)
 ---
 
 ### 💻 Tech Stack & Tools
 
 <!-- You can swap these out for the actual tools in your repositories -->
-* **Languages:** [e.g.,html,css,JavaScript,react,node.js]
-* **Frameworks/Libraries:** [e.g., React, Node.js]
-* **Tools & Databases:** [e.g., Git]
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frameworks/Libraries:** React, Node.js,jQuery, Responsive Web Design, Flexbox/Grid
+* **Tools & Databases:** Node.js, Git, GitHub, REST APIs
 
 ---
 
@@ -32,7 +32,7 @@
 * **[A Weather App](https://weather-app-one-alpha-22.vercel.app/):**Weather App: A responsive web application that allows users to search for any city to view current weather conditions—including temperature, humidity, and wind speed—alongside a multi-day forecast. Built with HTML5, CSS3, and JavaScript, utilizing Google Material Symbols for a clean UI.
 
 * 
-* **[A Personal Blog](https://personal-blog-project-green.vercel.app/):** Trend Blogger: A modern personal blog and content platform that lets readers explore trending topics across categories like Tech, Food, and News using interactive category filters. Built with HTML5, CSS3, JavaScript, jQuery,and Boxicons for clean UI icons.
+* **[A Personal Blog](https://personal-blog-project-green.vercel.app/):** Trend Blogger: A modern personal blog and content platform that lets readers explore trending topics across categories like Tech, Food, and News using interactive category filters. Built with HTML5, CSS3, JavaScript, jQuery and Boxicons for clean UI icons.
 * 
 * **[Your Third Best Project](Link to your repo):** A brief 1-2 sentence description of what this project does, the problem it solves, and the main technology stack used.
 
