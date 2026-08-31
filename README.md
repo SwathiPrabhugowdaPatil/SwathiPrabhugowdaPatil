@@ -15,7 +15,7 @@
 - 🎓 **Current Focus:** Deepening my knowledge in html,css,Javascript,react,node.js,Building modern single-page applications (SPAs) with React & RESTful APIs
 - 🌱 **Continuous Learning:** Completed my Integration course from Volkhochschule VHS (B1 certified)
 - 📫 **How to reach me:** swathippatil1997@gmail.com 
-- 🗣️ **Languages:** English (Fluent), German (B1 Certified - VHS Integration Course)
+- 🗣️ **Languages:** English (Fluent), German (B1 Certified with 95% - VHS Integration Course)
 ---
 
 ### 💻 Tech Stack & Tools
