@@ -36,7 +36,7 @@
   
 * **[A Netflix Clone](https://netflix-clone-project-tan.vercel.app/):** A Netflix Clone: A responsive front-end replica of the Netflix homepage built with clean HTML5 and CSS3, featuring a pixel-perfect design, interactive FAQ accordion, and modern multi-column layout without external frameworks.
 
-* **[pizza-order-app-react]:** A React Pizza Order App : A simple pizza ordering app built with React, featuring menu browsing, cart management, and order placement.
+* **[A React Pizza Order App ](https://netflix-clone-project-tan.vercel.app/):** A React Pizza Order App : A simple pizza ordering app built with React, featuring menu browsing, cart management, and order placement.
 
 <p align="center">
   <!-- This automatically generates your GitHub stats based on your username -->
