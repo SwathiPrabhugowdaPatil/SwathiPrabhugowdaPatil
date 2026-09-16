@@ -31,9 +31,9 @@
 
 * **[A Weather App](https://weather-app-one-alpha-22.vercel.app/):**Weather App: A responsive web application that allows users to search for any city to view current weather conditions—including temperature, humidity, and wind speed—alongside a multi-day forecast. Built with HTML5, CSS3, and JavaScript, utilizing Google Material Symbols for a clean UI.
 
-* 
+  
 * **[A Personal Blog](https://personal-blog-project-green.vercel.app/):** Trend Blogger: A modern personal blog and content platform that lets readers explore trending topics across categories like Tech, Food, and News using interactive category filters. Built with HTML5, CSS3, JavaScript, jQuery and Boxicons for clean UI icons.
-* 
+  
 * **[A Netflix Clone](https://netflix-clone-project-tan.vercel.app/):** A Netflix Clone: A responsive front-end replica of the Netflix homepage built with clean HTML5 and CSS3, featuring a pixel-perfect design, interactive FAQ accordion, and modern multi-column layout without external frameworks.
 
 <p align="center">
